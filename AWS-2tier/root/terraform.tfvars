@@ -1,0 +1,12 @@
+project_name = "Welcome-India"
+region = "us-east-1"
+vpc_cidr = "192.168.0.0/16"
+pub_sub_1a_cidr = "192.168.1.0/24"
+pub_sub_2b_cidr = "192.168.2.0/24"
+pri_sub_3a_cidr = "192.168.3.0/24"
+pri_sub_4b_cidr = "192.168.4.0/24"
+pri_sub_5a_cidr = "192.168.5.0/24"
+pri_sub_6b_cidr = "192.168.6.0/24"
+db_username = ""
+db_password = ""
+
